@@ -1,0 +1,23 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">View Button</string>
+<string name="name">name</string>
+    <string name="toppings">toppings</string>
+    <string name="Whipped_Cream">Whipped cream</string>
+    <string name="Chocolate">Chocolate</string>
+    <string name="quantity">quantity</string>
+    <string name="0">0</string>
+    <string name="Order_Summary">Order Summary</string>
+    <string name="order">order</string>
+    <string name="Kisho_Coffee">Kisho Coffee</string>
+    <string name="order_summary_name:_">Name: <xliff:g id="name" example="Amy">%s</xliff:g></string>
+    <string name="quantity:_">quantity: </string>
+    <string name="Total:_$">Total: $</string>
+    <string name="Add_Whipped_cream">Add Whipped cream ?</string>
+    <string name="Add_Chocolate">Add Chocolate ?</string>
+    <string name="Thank_You">Thank You!</string>
+   <string name="Max_Cups_Toast">The max order 10 Cups</string>
+    <string name="Minimum_Cups_toast">the minimum order 1 Cup</string>
+    <string name="massage">""</string>
+    <string name="Mr">MR:</string>
+    <string name="">""</string>
+</resources>
